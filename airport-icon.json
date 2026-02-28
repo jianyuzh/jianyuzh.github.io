@@ -1,0 +1,14 @@
+{
+"name":"EDC Airport Icon",
+"description":"Collected By ErdongChan.",
+"icons":
+[
+	{"name":"Prpr", "url":"https://jianyuzh.github.io/Airport/Prpr.png"},
+	{"name":"花云", "url":"https://jianyuzh.github.io/Airport/huacloud.png"},
+	{"name":"少数派", "url":"https://jianyuzh.github.io/Airport/Ssp.png"},
+	{"name":"Element", "url":"https://jianyuzh.github.io/Airport/Element.png"},
+	{"name":"溜冰猫", "url":"https://jianyuzh.github.io/Airport/Skicat.png"},
+	{"name":"白月光", "url":"https://jianyuzh.github.io/Airport/baiyueguang.png"},
+	{"name":"联盟", "url":"https://jianyuzh.github.io/Airport/Hxlm.png"}
+]
+}
