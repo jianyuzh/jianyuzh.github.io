@@ -1,0 +1,30 @@
+{
+"name":"Face Icon",
+"icons":
+[
+    {"name":"Global", "url":"https://jianyuzh.github.io/Orz-3/Face/Global.png"},
+    {"name":"China", "url":"https://jianyuzh.github.io/Orz-3/Face/China.png"},
+    {"name":"Bilibili", "url":"https://jianyuzh.github.io/Orz-3/Face/Bili.png"},
+    {"name":"YouTube", "url":"https://jianyuzh.github.io/Orz-3/Face/YouTube.png"},
+    {"name":"Final", "url":"https://jianyuzh.github.io/Orz-3/Face/Final.png"},
+    {"name":"Apple", "url":"https://jianyuzh.github.io/Orz-3/Face/Apple.png"},
+    {"name":"Message", "url":"https://jianyuzh.github.io/Orz-3/Face/Message.png"},
+    {"name":"Netflix", "url":"https://jianyuzh.github.io/Orz-3/Face/Netflix.png"},
+    {"name":"Music", "url":"https://jianyuzh.github.io/Orz-3/Face/Music.png"},
+    {"name":"Netease", "url":"https://jianyuzh.github.io/Orz-3/Face/Netease.png"},
+    {"name":"Static", "url":"https://jianyuzh.github.io/Orz-3/Face/Static.png"},
+    {"name":"Auto", "url":"https://jianyuzh.github.io/Orz-3/Face/Auto.png"},
+    {"name":"Game", "url":"https://jianyuzh.github.io/Orz-3/Face/Game.png"},
+    {"name":"Scholar", "url":"https://jianyuzh.github.io/Orz-3/Face/Scholar.png"},
+    {"name":"HK", "url":"https://jianyuzh.github.io/Orz-3/Face/HK.png"},
+    {"name":"MO", "url":"https://jianyuzh.github.io/Orz-3/Face/MO.png"},
+    {"name":"TW", "url":"https://jianyuzh.github.io/Orz-3/Face/TW.png"},
+    {"name":"CN", "url":"https://jianyuzh.github.io/Orz-3/Face/CN.png"},
+    {"name":"UN", "url":"https://jianyuzh.github.io/Orz-3/Face/UN.png"},
+    {"name":"UK", "url":"https://jianyuzh.github.io/Orz-3/Face/UK.png"},
+    {"name":"US", "url":"https://jianyuzh.github.io/Orz-3/Face/US.png"},
+    {"name":"JP", "url":"https://jianyuzh.github.io/Orz-3/Face/JP.png"},
+    {"name":"KR", "url":"https://jianyuzh.github.io/Orz-3/Face/KR.png"},
+    {"name":"SG", "url":"https://jianyuzh.github.io/Orz-3/Face/SG.png"}
+]
+}
