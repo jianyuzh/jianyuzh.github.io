@@ -1,0 +1,4 @@
+payload:
+  # > Cloudflare Personal Domain
+  - DOMAIN-SUFFIX,zhoujianyu.com
+  - DOMAIN-SUFFIX,thisisevan.org

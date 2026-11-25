@@ -1,0 +1,3 @@
+payload:
+  # > Gmail SMTP
+  - DOMAIN-SUFFIX,gmail.com

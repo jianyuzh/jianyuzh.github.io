@@ -1,0 +1,34 @@
+payload:
+  # > Nike
+  - DOMAIN-SUFFIX,nike.com
+  - DOMAIN-SUFFIX,accounts.nike.com
+
+  # > R18 Link
+  - DOMAIN-SUFFIX,linktr.ee
+
+  # > WAON
+  - DOMAIN-SUFFIX,aeonpayment.com
+
+  # > Tinder
+  - DOMAIN-SUFFIX,gotinder.com
+  - DOMAIN-KEYWORD,tinder
+
+  # > Google Voice
+  - DOMAIN-SUFFIX,voice.telephony.goog
+
+  # > X Space
+  - DOMAIN-SUFFIX,pscp.tv
+
+  # > OnlyFans
+  - DOMAIN-SUFFIX,onlyfans.com
+
+  # > 3HK
+  - DOMAIN-SUFFIX,three.com.hk
+
+  # > Firstrade
+  - DOMAIN-SUFFIX,firstrade.com
+  - DOMAIN-KEYWORD,firstrade
+  - DOMAIN,invest.firstrade.com
+
+  # > BBAE
+  - DOMAIN-SUFFIX,bbae.com
