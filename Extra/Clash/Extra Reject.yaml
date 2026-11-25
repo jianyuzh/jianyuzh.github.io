@@ -1,0 +1,5 @@
+payload:
+  # > Clear log
+  - DOMAIN,sns-na-i2.xhscdn.com
+  - DOMAIN,shark-tracer.netease.com
+  - DOMAIN,test.tunnel.com
