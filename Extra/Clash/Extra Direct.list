@@ -2,3 +2,27 @@ payload:
   # > Cloudflare Personal Domain
   - DOMAIN-SUFFIX,zhoujianyu.com
   - DOMAIN-SUFFIX,thisisevan.org
+
+  # > Cloudflare Tunnels
+  - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN-SUFFIX,cfargotunnel.com
+  - DOMAIN-SUFFIX,cftunnel.com
+
+  # > IP Server
+  - DOMAIN-SUFFIX,ip.sb
+
+  # > Proxy Service
+  - DOMAIN-SUFFIX,cdn.kineticbloom.org
+
+  # > Nanoleaf
+  - DOMAIN-SUFFIX,nanoleaf.me
+
+  # > BOCHK
+  - DOMAIN-SUFFIX,bochk.com
+
+  # > Lezhin
+  - DOMAIN-SUFFIX,lezhinus.com
+
+  # > iCloud Mail
+  - DOMAIN-SUFFIX,me.com
+  - DOMAIN,p35-smtp.mail.me.com

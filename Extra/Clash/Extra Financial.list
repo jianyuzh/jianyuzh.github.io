@@ -23,3 +23,14 @@ payload:
   # > Revolut
   - DOMAIN-SUFFIX,revolut.com
   - DOMAIN-KEYWORD,revolut
+
+  # > Amazon US
+  - DOMAIN-SUFFIX,amazon.com
+
+  - DOMAIN-SUFFIX,irs.gov
+  - DOMAIN-SUFFIX,id.me
+  - DOMAIN-SUFFIX,chime.com
+  - DOMAIN-SUFFIX,americanexpress.com
+  - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,myfico.com
+  - DOMAIN-SUFFIX,clippercard.com
