@@ -40,9 +40,9 @@ payload:
   # > PlayStation
   - DOMAIN-SUFFIX,sony.com
   - DOMAIN-SUFFIX,playstation.com
-  
+
   # > Hilton
   - DOMAIN-SUFFIX,hilton.com
-
+  
   # > Proxy Service
   - DOMAIN-SUFFIX,nexitallysafe.com

@@ -22,7 +22,7 @@ payload:
 
   # > Lezhin
   - DOMAIN-SUFFIX,lezhinus.com
-
+  
   # > iCloud Mail
   - DOMAIN-SUFFIX,me.com
   - DOMAIN,p35-smtp.mail.me.com

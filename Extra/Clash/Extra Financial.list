@@ -26,7 +26,8 @@ payload:
 
   # > Amazon US
   - DOMAIN-SUFFIX,amazon.com
-
+  
+  # > Others
   - DOMAIN-SUFFIX,irs.gov
   - DOMAIN-SUFFIX,id.me
   - DOMAIN-SUFFIX,chime.com
